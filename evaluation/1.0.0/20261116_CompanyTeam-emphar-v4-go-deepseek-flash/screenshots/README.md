@@ -1,0 +1,1 @@
+No screenshot assets were exported or verified for this draft. Candidate text trajectories include browser operations. This does not establish complete screenshot coverage; it is a submission-readiness gap.
